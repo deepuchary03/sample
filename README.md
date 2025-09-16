@@ -1,7 +1,7 @@
 
 # Docker Commands
 
-To execute Docker commands, use the following commands in your terminal:
+To execute Docker commands, use the following commands in your terminal:  
 
 ```bash
 git clone https://github.com/deepuchary03/docker
@@ -21,3 +21,4 @@ docker run simple-flask-app  # To run the simple-flask-app container
 
 docker images             # To list all the images
 ```
+
